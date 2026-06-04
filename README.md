@@ -5,7 +5,7 @@
 ![Python](https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=python)
 ![YOLO](https://img.shields.io/badge/YOLO-Ultralytics-purple?style=for-the-badge)
 
-> **Live Portfolio:** 🌐 [amiraziZ1221.github.io/portfolio](https://AmirAziz1221.github.io/portfolio)
+> **Live Portfolio:** 🌐 [https://amiraziz1221.github.io/portfolio/](https://AmirAziz1221.github.io/portfolio)
 
 ---
 
