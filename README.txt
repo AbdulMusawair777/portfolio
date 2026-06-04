@@ -5,7 +5,7 @@
 ![Python](https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=python)
 ![YOLO](https://img.shields.io/badge/YOLO-Ultralytics-purple?style=for-the-badge)
 
-> **Live Portfolio:** 🌐 [amiraziZ1221.github.io/portfolio](https://amiraziZ1221.github.io/portfolio)
+> **Live Portfolio:** 🌐 [amiraziZ1221.github.io/portfolio](https://AmirAziz1221.github.io/portfolio)
 
 ---
 
@@ -17,11 +17,11 @@ Currently working as a **Computer Vision Engineer Intern** at the **National Cen
 
 ---
 
-## 🚀 Live Demo
+## 🌐 Live Demo & Links
 
 | Platform | Link |
 |---|---|
-| 🌐 GitHub Pages | [amiraziZ1221.github.io/portfolio](https://amiraziZ1221.github.io/portfolio) |
+| 🌐 GitHub Pages | [AmirAziz1221.github.io/portfolio](https://AmirAziz1221.github.io/portfolio) |
 | 💼 Fiverr | [fiverr.com/amiraziz1221](https://www.fiverr.com/sellers/amiraziz1221) |
 | 🐙 GitHub | [github.com/AmirAziz1221](https://github.com/AmirAziz1221) |
 | 📊 Kaggle | [kaggle.com/amirazizdatascience](https://www.kaggle.com/amirazizdatascience) |
@@ -54,50 +54,79 @@ Currently working as a **Computer Vision Engineer Intern** at the **National Cen
 ## 📂 Featured Projects
 
 ### 🌊 1. Flood Segmentation & Detection
-> AI-based system for detecting and segmenting flood-affected areas from images or satellite-style data.
+> AI-based system for detecting and segmenting flood-affected areas from images or satellite-style data. Helps in disaster monitoring, emergency response, and environmental analysis.
+
 - **Tech:** Python, OpenCV, Deep Learning, Segmentation Models, YOLO
+- 🔗 [View on GitHub](https://github.com/AmirAziz1221)
 
 ---
 
 ### 🚗 2. Vehicle Detection & Tracking
-> Real-time vehicle detection and tracking system for traffic monitoring and road surveillance.
+> Real-time vehicle detection and tracking system for traffic monitoring, road surveillance, and intelligent transportation applications.
+
 - **Tech:** YOLO, OpenCV, Object Tracking, Python
+- 🔗 [View on GitHub](https://github.com/AmirAziz1221)
 
 ---
 
 ### ⚽ 3. Football Player Tracking & Mini Map
-> Sports analytics project detecting players, tracking movement, and generating mini-map visualization.
+> Sports analytics project that detects football players, tracks their movement, and generates a mini-map visualization for match analysis and coaching insights.
+
 - **Tech:** Computer Vision, Object Tracking, Pose Estimation, Python, OpenCV
+- 🔗 [View on GitHub](https://github.com/AmirAziz1221)
 
 ---
 
 ### 🏗️ 4. Infrastructure Defect Detection & AI Report Generation
-> Detects infrastructure defects like cracks and damages, then auto-generates inspection reports using Generative AI.
-- **Tech:** YOLO, Computer Vision, Generative AI, Python
+> Detects infrastructure defects such as cracks and structural damage, then automatically generates detailed inspection reports using Generative AI.
+
+- **Tech:** YOLO, Computer Vision, Generative AI, Python, Report Generation
+- 🔗 [View on GitHub](https://github.com/AmirAziz1221)
 
 ---
 
 ### 📱 5. Play Store App Analysis
-> Data science project analyzing Play Store app data for ratings, reviews, categories, and trends.
+> Data science project analyzing Play Store app data to understand ratings, reviews, categories, installs, and performance trends with rich visualizations.
+
 - **Tech:** Python, Pandas, Matplotlib, Seaborn, EDA
+- 🔗 [View on Kaggle](https://www.kaggle.com/amirazizdatascience)
 
 ---
 
 ### 🏷️ 6. Object Classification System
-> Deep learning-based image classification using trained CNN models with high accuracy.
+> Deep learning-based image classification system using trained CNN neural network models to categorize images into multiple classes with high accuracy.
+
 - **Tech:** CNN, PyTorch, Python, Image Classification
+- 🔗 [View on GitHub](https://github.com/AmirAziz1221)
 
 ---
 
 ### 🖥️ 7. Real-Time Object Detection Dashboard
-> Web dashboard for uploading images/videos and getting real-time AI object detection results.
+> Web-based dashboard where users upload images or videos and get real-time AI-based object detection results through an interactive interface.
+
 - **Tech:** YOLO, Streamlit, Flask, Python, OpenCV
+- 🔗 [View on GitHub](https://github.com/AmirAziz1221)
 
 ---
 
 ### 🤸 8. Human Pose Estimation System
-> Detects body keypoints for sports performance, fitness tracking, and activity recognition.
+> Computer vision system that detects human body keypoints and analyzes body movement for sports performance, fitness tracking, and activity recognition.
+
 - **Tech:** Pose Estimation, OpenCV, Deep Learning, Python
+- 🔗 [View on GitHub](https://github.com/AmirAziz1221)
+
+---
+
+## 💼 My Services
+
+| Service | Description |
+|---|---|
+| 👁️ Computer Vision Development | AI-powered vision systems for detection, tracking, classification |
+| 🎯 Object Detection & Tracking | Real-time YOLO-based detection for surveillance and transportation |
+| 🗺️ Image Segmentation | Flood detection, damage analysis, object boundary detection |
+| 🏃 Pose Estimation | Sports analytics, fitness tracking, activity recognition |
+| 📊 Data Science Projects | Data analysis, dashboards, predictive modeling |
+| 📝 AI Report Generation | Auto-generate reports from detected visual patterns |
 
 ---
 
@@ -105,12 +134,36 @@ Currently working as a **Computer Vision Engineer Intern** at the **National Cen
 
 | Type | Detail |
 |---|---|
-| 🎓 **Degree** | BS Data Science — UET Peshawar (July 2026) |
-| 💼 **Internship** | Computer Vision Engineer Intern — NCAI, UET Peshawar |
+| 🎓 **Degree** | BS Data Science — UET Peshawar (Completed July 2026) |
+| 💼 **Internship** | Computer Vision Engineer Intern — NCAI, UET Peshawar (Current) |
 
 ---
 
-## 📞 Contact
+## 📁 Portfolio Structure
+
+```
+portfolio/
+├── index.html              ← Main website file
+├── README.md               ← This file
+├── images/                 ← Project & profile images
+│   ├── amir-profile.jpg
+│   ├── flood-project.jpg
+│   ├── vehicle-tracking.jpg
+│   ├── football-tracking.jpg
+│   └── ...
+├── videos/                 ← Project demo videos
+│   ├── FootBall.mp4
+│   ├── Vehicles_Detection.mp4
+│   └── ...
+└── documents/              ← Resume, transcripts, certificates
+    ├── Amir_Aziz_Resume.pdf
+    ├── Amir_Aziz_Transcript.pdf
+    └── ...
+```
+
+---
+
+## 📞 Contact Me
 
 | Platform | Link |
 |---|---|
@@ -124,19 +177,9 @@ Currently working as a **Computer Vision Engineer Intern** at the **National Cen
 
 ---
 
-## 📁 Portfolio Structure
-portfolio/
-├── index.html          ← Main website
-├── README.md           ← This file
-├── images/             ← Project & profile images
-├── videos/             ← Project demo videos
-└── documents/          ← Resume, transcripts, certificates
+## ⭐ Support
 
----
-
-## ⭐ Show Some Love
-
-If you like this portfolio, please give it a **⭐ Star** on GitHub!
+If you like this portfolio, please give it a **⭐ Star** on GitHub — it means a lot!
 
 ---
 
