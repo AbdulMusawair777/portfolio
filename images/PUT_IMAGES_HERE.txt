@@ -1,0 +1,2 @@
+Put your profile photo here. Name it: amir-profile.jpg
+Put your project images here. See README.txt for exact file names.
